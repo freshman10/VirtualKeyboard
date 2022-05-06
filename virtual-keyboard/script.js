@@ -40,7 +40,6 @@ otvaliESLinter = new BuildElements('p', wrapperDiv, ['language'], 'Для пер
 otvaliESLinter.getElement();
 let ru;
 let en;
-/* random comment for new submits */
 let currentLocale = 'ru';
 const KEYBOARD_LINES = [['Backquote',
   'Digit1',

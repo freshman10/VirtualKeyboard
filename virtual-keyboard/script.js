@@ -38,6 +38,7 @@ const keyBoardContainer = new BuildElements('div', wrapperDiv, ['keyboard']).get
 otvaliESLinter = new BuildElements('p', wrapperDiv, ['description'], 'Клавиатура создана в операционной системе Windows');
 otvaliESLinter = new BuildElements('p', wrapperDiv, ['language'], 'Для переключения языка комбинация: левыe ctrl + alt');
 otvaliESLinter.getElement();
+/* don't read this comment */
 let ru;
 let en;
 let currentLocale = 'ru';
